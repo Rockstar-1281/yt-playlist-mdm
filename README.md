@@ -136,6 +136,6 @@ Use `-MdmSource <path>` if the MDM checkout is not the sibling
   (`winget install Gyan.FFmpeg`) or use the video-get engine.
 
 ## License
-
+Downloading from YouTube conflicts with its Terms of Service, so a “personal use / your responsibility” line is sensible.
 The bundled engine is built from Mister Download Manager and is distributed
 under GPL-3.0-or-later. See `engine/LICENSE` and `engine/BUILD.txt`.
