@@ -1,0 +1,14 @@
+﻿mdm-video-engine build metadata
+Built: 2026-11-16 00:35:45 UTC
+MDM source: C:\Users\user\Documents\github projects\misterdownloadmanager
+MDM commit: 9eac50c6a9205bcfcf741b58a439aed8fee75f11
+MDM commit date: 2026-11-15
+MDM commit subject: Looking up a video no longer fails with "Permission denied" in System32 when MDM started with Windows, and a file opened from MDM starts in its own folder (#1220)
+Rust: rustc 1.100.0 (0ef1bc386 2026-11-09)
+Cargo: cargo 1.100.0 (3acc79c0c 2026-11-05)
+CMake: cmake version 3.31.6-msvc6
+NASM: NASM version 3.02 compiled on Jun 28 2026
+Binary: mdm-video-engine.exe
+Size: 12738048 bytes
+SHA256: CE5FE3B55D75DAB24182628B18799D9DF84DA5A6EFA40307C4DCEB528607A97D
+License: GPL-3.0-or-later (see LICENSE)
